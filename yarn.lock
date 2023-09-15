@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-iiif-hss@^0.0.5:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/iiif-hss/-/iiif-hss-0.0.5.tgz#7e1936376e3c015a859d6a64561993830ed5a08f"
-  integrity sha512-b8ZMgHi3ZxIkQLGBLCOdaEDZck5nHlRycKzsKvGuZmzySPY33HZ5yHAhJ1W0S2m7R30gEKc4WnJIEr35rFu8gA==
+iiif-hss@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/iiif-hss/-/iiif-hss-0.0.4.tgz#c9f38325834b4724ffc1906026dcb83e8c9267a6"
+  integrity sha512-zTCLQoeXwziDvUScXEeb7uerJ8en6v1TQilCE9hYHRU2btWbtu5qu/wFV2mxgAaeLBIvCuN0z/K6MRXnJDIQBA==
