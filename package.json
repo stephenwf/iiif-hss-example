@@ -1,0 +1,13 @@
+{
+  "name": "test-iiif-hss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "iiif-hss build --no-client",
+    "start": "iiif-hss serve"
+  },
+  "devDependencies": {
+    "iiif-hss": "^0.0.5"
+  }
+}
