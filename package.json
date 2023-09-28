@@ -8,6 +8,6 @@
     "start": "iiif-hss serve"
   },
   "devDependencies": {
-    "iiif-hss": "^0.0.9"
+    "iiif-hss": "^0.0.10"
   }
 }

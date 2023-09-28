@@ -14,9 +14,9 @@
   resolved "https://registry.yarnpkg.com/@types/geojson/-/geojson-7946.0.11.tgz#012c17cb2256ad8de78560da851ab914a7b9b40e"
   integrity sha512-L7A0AINMXQpVwxHJ4jxD6/XjZ4NDufaRlUJHjNIFKYUFBH1SvOW+neaqb0VTRSLW5suSrSu19ObFEFnfNcr+qg==
 
-iiif-hss@^0.0.9:
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/iiif-hss/-/iiif-hss-0.0.9.tgz#97cb682578d6311adfe1c609305421f8a083fc3e"
-  integrity sha512-R42PQFSSPY11IrEQQAJwuzjsGt1lNQUUof7g1Hnozr1kOioPSLOAoyHhFiNXkeYCaA1lPhsVHPgIy0LI1GEtJw==
+iiif-hss@^0.0.10:
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/iiif-hss/-/iiif-hss-0.0.10.tgz#dc1d70a1ab03c8a1913cd49f1b5f6c5b570c57cf"
+  integrity sha512-qk7SjVTUSNixhSgqcLjzPX7TYf7ttj8M2D5Kw440fkI1XwpLxnpVpQCrNvKSGfY/4A/sq3j6MVciQ2ue7I8Nhg==
   optionalDependencies:
     "@iiif/presentation-3" "^2.0.5"
