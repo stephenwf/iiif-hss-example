@@ -2,7 +2,21 @@
 # yarn lockfile v1
 
 
-iiif-hss@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/iiif-hss/-/iiif-hss-0.0.4.tgz#c9f38325834b4724ffc1906026dcb83e8c9267a6"
-  integrity sha512-zTCLQoeXwziDvUScXEeb7uerJ8en6v1TQilCE9hYHRU2btWbtu5qu/wFV2mxgAaeLBIvCuN0z/K6MRXnJDIQBA==
+"@iiif/presentation-3@^2.0.5":
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/@iiif/presentation-3/-/presentation-3-2.0.5.tgz#04c0c980ba586881984ed9433375d207f9af52ad"
+  integrity sha512-Iy5erfTKs1zOjwq8WiTmOeP5ZmrBFVVzBXMbKIIdv38ci1loeAR9fboncncPW7ZPqXUqeCMkjFGnP/HL22TggA==
+  dependencies:
+    "@types/geojson" "^7946.0.10"
+
+"@types/geojson@^7946.0.10":
+  version "7946.0.11"
+  resolved "https://registry.yarnpkg.com/@types/geojson/-/geojson-7946.0.11.tgz#012c17cb2256ad8de78560da851ab914a7b9b40e"
+  integrity sha512-L7A0AINMXQpVwxHJ4jxD6/XjZ4NDufaRlUJHjNIFKYUFBH1SvOW+neaqb0VTRSLW5suSrSu19ObFEFnfNcr+qg==
+
+iiif-hss@^0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/iiif-hss/-/iiif-hss-0.0.7.tgz#5b4bd5f1816abedd91c911a9ab8d7cd1b58748ab"
+  integrity sha512-j+Yi3YRGksOEqoLD+7fF5W5V5jayN8ggGiyqk+TGdd4RXjYHRdvNstlUc9mZ9TW7X/mvvq6Ymn10dJW1M/KBCQ==
+  optionalDependencies:
+    "@iiif/presentation-3" "^2.0.5"
