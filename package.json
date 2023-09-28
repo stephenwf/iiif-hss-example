@@ -4,10 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "iiif-hss build --no-client",
+    "build": "iiif-hss build --html",
     "start": "iiif-hss serve"
   },
   "devDependencies": {
-    "iiif-hss": "^0.0.7"
+    "iiif-hss": "^0.0.9"
   }
 }
