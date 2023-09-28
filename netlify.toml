@@ -9,3 +9,9 @@
 
   # Default build command.
   command = "yarn build"
+
+
+[[redirects]]
+  from = "/clover/*"
+  to = "/clover.html"
+  status = 200
